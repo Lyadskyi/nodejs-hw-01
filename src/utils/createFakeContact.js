@@ -1,8 +1,9 @@
 import { faker } from '@faker-js/faker';
 
 export const createFakeContact = () => ({
-  name: faker.person.fullName(),
-  phone: faker.phone.number(),
-  email: faker.internet.email(),
-  job: faker.person.jobTitle(),
+  id: faker.datatype.uuid(), // для генерації унікального ідентифікатора;
+  name: faker.person.fullName(), // для генерації повних імен;
+  phone: faker.phone.number(), // для створення телефонних номерів;
+  email: faker.internet.email(), // для формування електронних адрес;
+  job: faker.person.jobTitle(), // для генерації назв професій.
 });
