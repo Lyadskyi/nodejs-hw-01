@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "f3dd85bb-9775-46fb-aaa3-ebe3ff0edabe",
+    "name": "Miss Cristina Weissnat",
+    "phone": "+52 (552) 289-06-24",
+    "email": "Asa.Buckridge@hotmail.com",
+    "job": "Product Brand Associate"
+  },
+  {
+    "id": "9e608fd9-9288-40bd-944c-09d16251de4b",
+    "name": "Julius Lubowitz",
+    "phone": "+94 (428) 542-90-54",
+    "email": "Jacey22@gmail.com",
+    "job": "Customer Directives Specialist"
+  },
+  {
+    "id": "23f2608e-b7f0-4cd9-92f9-73df7dfda4d7",
+    "name": "Carlos Koelpin MD",
+    "phone": "+51 (316) 398-37-33",
+    "email": "Antonia41@yahoo.com",
+    "job": "National Quality Consultant"
+  },
+  {
+    "id": "0c1ce698-69f1-44cb-a51f-293cc5977a53",
+    "name": "Debbie Armstrong",
+    "phone": "+73 (032) 356-69-73",
+    "email": "Celine.Weber@gmail.com",
+    "job": "National Marketing Executive"
+  }
+]
